@@ -13,6 +13,7 @@ export default function Navigation() {
 
     return (
         <main>
+            
             <Navbar bg="light" expand="lg">
                 <Container>
                     <Navbar.Brand href="../control-produccion/">Rey de los Andes</Navbar.Brand>
