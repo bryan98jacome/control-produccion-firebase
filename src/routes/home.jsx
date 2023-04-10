@@ -1,5 +1,5 @@
 export default function Home() {
     return (
-        <main>Home</main>
+        <main>AQUIII X2</main>
     );
 }
